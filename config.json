@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "announcement": "欢迎使用小川通缉",
+  "forceESP": false,
+  "disableFly": false,
+  "disableSuck": false,
+  "whitelist": ["小川"],
+  "blacklist": [],
+  "keys": ["XC-1234-5678"]
+}
